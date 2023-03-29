@@ -21,7 +21,7 @@ A login form using HTML & CSS This form allows users to  login. I enjoy making s
 Find a Bug? Please, [create an issue](https://github.com/inclusionsoftwaresolutions/login-form-template/issues) and we'll fix it together for a better template.
 
 ## Created & Maintained By
-- [InclusionSoft](https://inclusionsoft.com/)
+- [InclusionSoftwareSolutions](https://inclusionsoft.com/)
 - [Looking For a Free Templates](https://inclusionsoft.com/themes)
 
 ## Note
