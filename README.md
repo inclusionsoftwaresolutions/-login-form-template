@@ -18,11 +18,11 @@ A login form using HTML & CSS This form allows users to  login. I enjoy making s
 - SCSS
 
 ## Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/thakurboy1234/html-login-form/issues) and we'll fix it together for a better template.
+Find a Bug? Please, [create an issue](https://github.com/inclusionsoftwaresolutions/login-form-template/issues) and we'll fix it together for a better template.
 
 ## Created & Maintained By
 - [InclusionSoft](https://inclusionsoft.com/)
-- [Looking For a Free Templates](http://127.0.0.1:8000/themes)
+- [Looking For a Free Templates](https://inclusionsoft.com/themes)
 
 ## Note
 - I suggest to not use real Logo for demo page, this is for avoid "phishing" perceptions.
